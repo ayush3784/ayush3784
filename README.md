@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student (AKTU) | Aspiring Software Engineer  
 💡 Interested in Full Stack Development & Salesforce Ecosystem  
-🚀 Goal: Secure a high-impact role (6–8 LPA+) and build scalable tech products  
+🚀 Goal: Building CRM Solutions  
 
 ---
 
