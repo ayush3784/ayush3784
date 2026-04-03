@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there 👋 I'm Ayush Vats
 
-<!--
-**ayush3784/ayush3784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (AKTU) | Aspiring Software Engineer  
+💡 Interested in Full Stack Development & Salesforce Ecosystem  
+🚀 Goal: Secure a high-impact role (6–8 LPA+) and build scalable tech products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- Full Stack + Salesforce integrated projects  
+- Apex Triggers & Lightning Web Components (LWC)  
+- Data Structures & Algorithms (LeetCode practice)
+
+---
+
+### 🌱 I’m currently learning:
+- Advanced DSA (Graphs, DP)  
+- Salesforce Development (Apex, LWC, SOQL)  
+- Backend Development (Java / APIs)
+
+---
+
+### 👯 I’m looking to collaborate on:
+- Open Source Projects  
+- Salesforce-based applications  
+- Full Stack Web Development projects  
+
+---
+
+### 🤔 I’m looking for help with:
+- Scaling projects to production level  
+- System Design basics  
+- Optimizing DSA problem-solving  
+
+---
+
+### 💬 Ask me about:
+- Java, OOPs, DSA  
+- Salesforce (Apex, LWC basics)  
+- Project building & GitHub optimization  
+
+---
+
+### 📫 How to reach me:
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your-email@example.com  
+
+---
+
+### ⚡ Fun fact:
+- I was Head Boy for 4 consecutive years 😎  
+- I prefer building things over just studying theory  
+
+---
