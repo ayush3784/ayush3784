@@ -43,7 +43,7 @@
 
 ### 📫 How to reach me:
 - LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+- Email: ayushvats835@gmail.com
 
 ---
 
