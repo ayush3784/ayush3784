@@ -56,7 +56,8 @@ development, configuration, and support activities while growing within a profes
 
 ### ⚡ Fun fact:
 - I was Head Boy for 4 consecutive years 😎  
-- I prefer building things over just studying theory  
+- I prefer building things over just studying theory
+- I hold the Solutions Architect – Associate ( SAA-C03 ) certificate credentials by Amazon Web Services ( AWS )
 ---
 
 ### 🛠️ Tech Stack:
