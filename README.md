@@ -47,7 +47,7 @@ development, configuration, and support activities while growing within a profes
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: LinkedIn: https://linkedin.com/in/ayush-vats-2a5327277
 - Email: ayushvats835@gmail.com
 - Trailhead: https://www.salesforce.com/trailblazer/xydxtjbe6vjzdduza2 
 - Leetcode: https://leetcode.com/u/Ayush_Vats3784/
