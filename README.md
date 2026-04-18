@@ -1,8 +1,13 @@
 ## Hi there 👋 I'm Ayush Vats
 
-🎓 B.Tech CSE Student (AKTU) | Aspiring Software Engineer  
-💡 Interested in Full Stack Development & Salesforce Ecosystem  
-🚀 Goal: Building CRM Solutions  
+ Pre-Final year B.Tech CSE student with hands-on experience in Salesforce configuration, development, and CRM automation across
+freelance and academic projects.
+• Proficient in Apex, Triggers, SOQL, Lightning Web Components (LWC), Flows, custom objects, and the Salesforce Security Model;
+Trailhead Ranger rank.
+• Delivered real-world Salesforce solutions including lead scoring automation, REST API integration, and an LWC-based order management
+system.
+• Experienced in bug fixing, testing, and deployment support; additionally skilled in Java, Spring Boot. Eager to contribute to Salesforce
+development, configuration, and support activities while growing within a professional Salesforce team
 
 ---
 
