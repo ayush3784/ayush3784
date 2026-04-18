@@ -32,13 +32,6 @@ development, configuration, and support activities while growing within a profes
 
 ---
 
-### 🤔 I’m looking for help with:
-- Scaling projects to production level  
-- System Design basics  
-- Optimizing DSA problem-solving  
-
----
-
 ### 💬 Ask me about:
 - Java, OOPs, DSA  
 - Salesforce (Apex, LWC basics)  
